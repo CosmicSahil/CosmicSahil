@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CosmicSahil
+- 👀 I’m interested in computer science and astronomy
+- 🌱 I’m currently learning robotics and automation
